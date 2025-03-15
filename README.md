@@ -1,4 +1,4 @@
-#  Dexter Face Detection Classification using CNN and YOLOv8 in-Python 
+#  Dexter Face Detection Classification using CNN and YOLOv8 in Python 
 
 ## Features 
 - Generating positive examples
